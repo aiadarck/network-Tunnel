@@ -239,6 +239,3 @@ sshd   1111 root  10u IPv4 2222   0t0 TCP *:99 (LISTEN)
 reboot
 ```
 
-
-اگر سوال و مشکلاتی داشتید میتونید تلگرام ازم بپرسید:
-<a href="t.me/nillkiggersfurnbaggotskatehikes">nillkiggersfurnbaggotskatehikes@</a>
